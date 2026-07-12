@@ -1,12 +1,8 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Omar El Hajj" src="profile-photo.png">
+  <img alt="Omar El Hajj" src="dark.svg">
 </picture>
-
-<p align="center">
-  <img src="profile-photo.png" width="160" style="border-radius:50%;" alt="Omar El Hajj"/>
-</p>
 
 ### About Me
 
