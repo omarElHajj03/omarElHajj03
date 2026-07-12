@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Omar El Hajj" src="dark.svg">
+  <img alt="Omar El Hajj" src="profile-photo.png">
 </picture>
 
 <p align="center">
