@@ -15,7 +15,7 @@ I'm a Computer Science graduate (Cybersecurity track) based in Riyadh, Saudi Ara
 **[Splunk SOC Lab](https://github.com/omarElHajj03/Splunk-soc-lab)**
 A home-built SOC lab with Sysmon log ingestion, 11,000+ indexed events, five MITRE ATT&CK-mapped detection rules, three dashboards, and a full incident report.
 
-**PhishTriage**
+**[PhishTriage](https://github.com/omarElHajj03/PhishTriage)**
 A Python phishing email triage tool — extracts IOCs, enriches them via VirusTotal and AbuseIPDB, applies weighted scoring, and generates a Markdown report.
 
 ---
